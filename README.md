@@ -2,8 +2,8 @@
 Fork from [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research). To find out more details, it is recommended to visit the original GitHub repository.
 
 Others repositories that also handle this task:
-- [bytedance/deer-flow]https://github.com/bytedance/deer-flow
-- [Alibaba-NLP/DeepResearch]https://github.com/Alibaba-NLP/DeepResearch
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
 
 ### Setup
